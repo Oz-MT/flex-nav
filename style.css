@@ -70,6 +70,7 @@
     /* border: red solid; */
     border-radius: 15px;
     list-style-type: none;
+    
     background-color: var(--mavi-10)
 }
 
@@ -78,8 +79,10 @@
     display: inline-block;
     font-size: 1.5rem;
     font-weight: 700;
+    color: #222;
     padding: 38px;
     transition:all .8s;
+
 }
 
 .navbar-üst .medium ul a:hover{
